@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my site!"
 date:   2020-10-11 18:09:13 -0400
-categories: jekyll update
+# categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi, thanks for visiting my site and open my post. I'm Kazuki Yabe, a master student at Indiana University. Here, I post my background information. If you want to see more causual introduction, please visit [About](/about/)
 
-Jekyll requires blog post files to be named according to the following format:
+## Skills Summary
+**Programming Languages**: C, C++, JavaScript, PHP, Python, Ruby
 
-`YEAR-MONTH-DAY-title.MARKUP`
+**Tools and Libraries**: GitHub, Linux command line, selenium, NLTK, spaCy, flair, TensorFlow, NodeJS, Rails
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**Data Formats**: JSON, CoNLL, XML
 
-Jekyll also offers powerful support for code snippets:
+**Other**: HTML, CSS, Japanese, SQL, Microsoft Office
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Education
+### Indiana University / Master of Science / Sep 2019-Present
+Majored in Computational Linguistics and learned natural language processing, including POS tagging, entity recognition, dependency parsing, inferencing. Implemented POS tagger and dependency parser with Python. Also experienced with word embeddings such as glove and Elmo.
+### Simon Fraser University / Bachelor of Science / Sep 2014-Sep 2018
+Majored in Computer Science and learned basics of computer programming, including sorting algorithms and their time complexity, dynamic programming, web development, databases. Also majored in linguistics and learned basics theories of syntax, semantics, phonetics, and phonology. Received International Academic Excellence Entrance Scholarship in 2014, 2016, and 2017, and Dean’s Honor Roll in 2016 and 2017.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Experience
+### Sierra Wireless | Software Test Engineer Coop | Jan 2018-Aug 2018
+Implemented and executed automated tests for IoT devices’ user interface, including WiFi, cellular, LAN, and security. If some features failed a test, reported and filed the bug through JIRA. For testing port security and device connection, used Wireshark to monitor or investigate specific data flows.
+### Experimental Syntax Lab | Undergraduate Research Assistant | Oct 2016-Dec 2017
+Responsible for experimenting a Japanese syntactic phenomenon “Null Object Construction.” Translated English sentences to corresponding Japanese sentences with the phenomenon and run the experiment implemented with PsychoPy2 with Japanese participants. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
