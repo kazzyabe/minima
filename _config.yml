@@ -29,6 +29,7 @@ github_username:  kazzyabe
 linkedin_username: kazukiyabe
 
 # Build settings
+# theme: minima
 theme: minima
 
 # theme: jekyll-theme-cayman
