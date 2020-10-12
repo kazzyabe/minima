@@ -6,4 +6,6 @@ layout: home
 title: Home
 ---
 
-Welcome! Please visit [About](/about/) for my casual introduction. If you are interested in my background, please visit the [post](/2020/10/11/welcome-to-mysite.html)
+Please visit [About](/about/) for my casual introduction. 
+
+If you are interested in my background, please visit the [post](/2020/10/11/background.html)
