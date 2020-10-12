@@ -4,7 +4,7 @@ title:  "Welcome to my site!"
 date:   2020-10-11 18:09:13 -0400
 # categories: jekyll update
 ---
-Hi, thanks for visiting my site and open my post. I'm Kazuki Yabe, a master student at Indiana University. Here, I post my background information. If you want to see more causual introduction, please visit [About](/about/)
+Hi, thanks for visiting my site and opening my post. I'm Kazuki Yabe, a master student at Indiana University. Here, I post my background information. If you want to see more causual introduction, please visit [About](/about/)
 
 ## Skills Summary
 **Programming Languages**: C, C++, JavaScript, PHP, Python, Ruby

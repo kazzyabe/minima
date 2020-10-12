@@ -21,11 +21,12 @@
 title: Kazuki Yabe
 email: kyabe@iu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A master student at Indiana University. Majored in Computational Linguistcs.
+  Master in Computational Linguistcs at Indiana University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  kazzyabe
+linkedin_username: kazukiyabe
 
 # Build settings
 theme: minima
